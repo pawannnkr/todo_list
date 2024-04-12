@@ -1,6 +1,7 @@
 # todo_list
 
-A new Flutter project.
+A App which hekps you to keep tracs of your notes. anything you want to keep as a note, just open the app and add into it.
+
 
 ## Getting Started
 
